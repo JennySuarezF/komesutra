@@ -1,0 +1,33 @@
+* {
+  font-family: 'Showcard Gothic', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+select,
+option,
+strong,
+.btn,
+form *,
+h5 a,
+.breadcrumb-item a {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+footer,
+.page-item.active .page-link {
+  background-color: #fbeb26;
+}
+
+.page-item.active .page-link a{
+  border: 1px solid red;
+}
+a{
+  color: #BC1F17;
+}

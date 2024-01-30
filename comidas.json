@@ -1,0 +1,184 @@
+{
+  "Encebollados": [
+    {
+      "nombre": "Encebollado sencillo",
+      "precio": 2.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/0VKGKG1/1-encebollado-sencillo-IA.jpg"
+    },
+    {
+      "nombre": "Encebollado mixto",
+      "precio": 4.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/SBwc8p1/3-Encebollado-mixto.jpg"
+    },
+    {
+      "nombre": "Encebollado mixto completo",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/MZmJv0h/4-encebollado-completo.jpg"
+    }
+  ],
+  "Banderas KOME-SUTRA": [
+    {
+      "nombre": "Bandera Doble",
+      "precio": 3.25,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Bandera Triple",
+      "precio": 3.75,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/yySjCTd/3-bandera-MEGASUTRA.jpg"
+    },
+    {
+      "nombre": "Bandera KOMESUTRA",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/PQ1WLm1/3-1-bandera-MEGASUTRA-2.jpg"
+    }
+  ],
+  "Ceviches": [
+    {
+      "nombre": "Ceviche de camarón",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/PYhY6YG/ceviche-de-camaron-removebg-preview.png"
+    },
+    {
+      "nombre": "Ceviche de concha",
+      "precio": 8.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vqKVJmq/2-Ceviche-de-concha.jpg"
+    },
+    {
+      "nombre": "Ceviche de calamar",
+      "precio": 5.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Ceviche de pescado curtido",
+      "precio": 6.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Ceviche doble",
+      "precio": 7.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/q7Ky7wX/5-ceviche-doble.jpg"
+    }
+  ],
+  "Bollos": [
+    {
+      "nombre": "Bollo sencillo",
+      "precio": 3.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/cYJ8HQK/bollos-removebg-preview.png"
+    },
+    {
+      "nombre": "Bollo con camarones",
+      "precio": 4.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Bollo completo",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    }
+  ],
+  "Especialidades": [
+    {
+      "nombre": "Caldo de tronquito",
+      "precio": 8.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Encocado de camarón",
+      "precio": 4.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/CtNbt9c/2-encocado-de-camaron.jpg"
+    },
+    {
+      "nombre": "Bandera completa",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Guatita",
+      "precio": 5.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    }
+  ],
+  "Bebidas": [
+    {
+      "nombre": "Cola personal",
+      "precio": 0.75,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Cola grande",
+      "precio": 2.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Jugos naturales",
+      "precio": 1.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    }
+  ],
+  "Adicionales": [
+    {
+      "nombre": "Chifles",
+      "precio": 0.50,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/vxrZ4c7/sin-imagen.png"
+    },
+    {
+      "nombre": "Porción de arroz",
+      "precio": 0.75,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/whNf7r2/porcion-arroz-1.png"
+    },
+    {
+      "nombre": "Porción Salsa de la casa",
+      "precio": 1.00,
+      "descripción": "En cada cucharada de nuestro plato encebollado, encontrarás la esencia de la cocina casera e ingredientes de calidad que hacen de esta experiencia algo incomparable.",
+      "ingredientes": "pescado fresco, yuca, cebolla, cilantro",
+      "img": "https://i.ibb.co/4V4RSst/salsa-criolla-basica.png"
+    }
+  ]
+}

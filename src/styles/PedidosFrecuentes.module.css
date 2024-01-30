@@ -1,0 +1,13 @@
+.imagenes {
+  transition: .2s;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
+@media (min-width: 768px) {
+  .pedidos {
+    height: 200px;
+  }
+}
